@@ -1,9 +1,6 @@
 package com.azu777.core.classwork.lesson3;
-
-
 import org.junit.Assert;
 import org.junit.Test;
-
 /**
  * Created by azu on 2/13/2017.
  */
