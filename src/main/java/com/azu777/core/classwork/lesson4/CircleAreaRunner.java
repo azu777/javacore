@@ -7,7 +7,8 @@ import java.util.Scanner;
  */
 public class CircleAreaRunner {
     public static void main(String[] args) {
-        CircleArea.calculate();
+        //CircleArea.calculate();
+        CircleArea.calculateBigger();
     }
 
 }
